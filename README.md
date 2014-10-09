@@ -1,4 +1,6 @@
-python-keylogger
-================
+#python-keylogger
+#================
 
-keylogger made in python to record the keystrokes on pc with gui
+#keylogger made in python to record the keystrokes on pc with gui
+
+
